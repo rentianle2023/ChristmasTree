@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Christmas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Christmas_jar</output-path>
+    <root id="archive" name="Christmas.jar">
+      <element id="module-output" name="Christmas" />
+    </root>
+  </artifact>
+</component>
