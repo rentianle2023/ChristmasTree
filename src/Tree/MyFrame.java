@@ -58,7 +58,7 @@ public class MyFrame extends JFrame implements MouseListener {
     public void mouseClicked(MouseEvent e) {
         gift.setVisible(false);
         santa.setIcon(new ImageIcon("assets/santaJump.png"));
-        santa.setText("Marry Christmas 岑岑小仙女!");
+        santa.setText("Merry Christmas 岑岑小仙女!");
         button.setVisible(false);
 
         File file = new File("assets/song.wav");
